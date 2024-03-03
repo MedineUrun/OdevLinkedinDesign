@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_anasayfa"
+        android:title="Home"
+        android:icon="@drawable/home_icon"/>
+    <item
+        android:id="@+id/bottom_agım"
+        android:title="Ağım"
+        android:icon="@drawable/people_icon"/>
+    <item
+        android:id="@+id/bottom_yayınla"
+        android:title="Yayınla"
+        android:icon="@drawable/add_icon"/>
+    <item
+        android:id="@+id/bottom_bildirim"
+        android:title="Bildirimler"
+        android:icon="@drawable/notifications_icon"/>
+    <item
+        android:id="@+id/bottom_işilanı"
+        android:title="İş İlanları"
+        android:icon="@drawable/work_icon"/>
+
+</menu>

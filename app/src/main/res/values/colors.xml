@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="blue">#0a78b5</color>
+    <color name="background">#eae8e2</color>
+    <color name="searcview">#eef3f7</color>
+    <color name="icon_color">#a5a5a5</color>
+    <color name="icon_blue">#0a78b5</color>
+    <color name="grey">#c0c0c0</color>
+</resources>
